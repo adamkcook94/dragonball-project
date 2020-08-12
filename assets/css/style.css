@@ -9,3 +9,7 @@ body {
 .hvr-underline-from-center:before {
     background: rgba(255, 53, 3)
 }
+
+.menuitem {
+    color: white;
+}
