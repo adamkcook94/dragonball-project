@@ -4,9 +4,13 @@ body {
     background-color: black;
 }
 
+/* ----------------------------------Navbar */
+
 .navbar {
     justify-content: center;
 }
+
+
 
 /* ----------------------------------Hover.css */
 
@@ -20,6 +24,7 @@ body {
 
 }
 
-.active {
-    color: orange;
+.icon-size {
+    height: 200px;
+    width: 200px;
 }
