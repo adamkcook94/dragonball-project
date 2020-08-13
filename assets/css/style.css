@@ -30,28 +30,52 @@ body {
     padding: 50px;
     line-height: 7px;
     background: black;
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: grey;
-}
-
-.facebook-icon {
-    color: #3b5998;
-}
-
-.twitter-icon {
-    color: #00acee;
 }
 
 .twitch-icon {
     color: #6441A4;
 }
 
+.twitch-icon:hover {
+    background: pink;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.twitter-icon {
+    color: #00acee;
+}
+
+.twitter-icon:hover {
+    background: darkcyan;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.fb-icon {
+    color: #3b5998;
+}
+
+.fb-icon:hover {
+    background: darkblue;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
 .youtube-icon {
     color: #FF0000;
+}
+
+.youtube-icon:hover {
+    background: white;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
