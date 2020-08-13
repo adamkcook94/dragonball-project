@@ -4,12 +4,15 @@ body {
     background-color: black;
 }
 
+.navbar {
+    justify-content: center;
+}
+
 /* ----------------------------------Hover.css */
 
 .hvr-underline-from-center:before {
     background: rgba(255, 53, 3)
 }
 
-.menuitem {
-    color: white;
-}
+/* ----------------------------------Footer */
+
