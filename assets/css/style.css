@@ -10,8 +10,6 @@ body {
     justify-content: center;
 }
 
-
-
 /* ----------------------------------Hover.css */
 
 .hvr-underline-from-center:before {
@@ -22,9 +20,4 @@ body {
 
 .social-links {
 
-}
-
-.icon-size {
-    height: 200px;
-    width: 200px;
 }
