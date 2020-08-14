@@ -6,9 +6,6 @@ body {
 
 /* ----------------------------------Navbar */
 
-.navbar {
-    justify-content: center;
-}
 
 /* ----------------------------------Hover.css */
 
@@ -17,8 +14,6 @@ body {
 }
 
 /* ----------------------------------Footer */
-
-
 
 
 .twitch-icon {
@@ -84,3 +79,6 @@ body {
     width: 4em;
 }
 
+.copyright-text {
+    font-size: 13px;
+}
