@@ -19,10 +19,7 @@ body {
 /* ----------------------------------Footer */
 
 
-.footer-sizing {
-    height: 20px;
-    width: 30px;
-}
+
 
 .twitch-icon {
     color: #6441A4;
@@ -71,3 +68,19 @@ body {
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
 }
+
+.social-links {
+    padding: 20px 20px 20px;
+    background: black;
+}
+
+.bandai-image {
+    padding-top: 30px;
+    width: 7em;
+}
+
+.mature-image {
+    padding-top: 20px;
+    width: 4em;
+}
+
