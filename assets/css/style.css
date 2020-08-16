@@ -4,6 +4,13 @@ body {
     background-color: black;
 }
 
+/* ----------------------------------Index section */
+
+.bg-image {
+    background-image: url('assets/images/dbz-bg.jpg');
+    background-size: cover;
+}
+
 /* ----------------------------------Navbar */
 
 
