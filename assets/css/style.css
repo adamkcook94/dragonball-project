@@ -6,10 +6,9 @@ body {
 
 /* ----------------------------------Index section */
 
-.box {
-    background-image: url("../images/goku-bg.jpg");
-    width: 100%;
-    padding: 300px;
+.home-screenshots {
+    height: 10em;
+    width: 10em;
 }
 
 /* ----------------------------------Navbar */
