@@ -2,14 +2,11 @@ body {
     font-family: 'Exo 2', sans-serif;
     font-size: 1.2em;
     background-color: black;
+    color:#D3D3D3;
 }
 
 /* ----------------------------------Index section */
 
-.home-screenshots {
-    height: 10em;
-    width: 10em;
-}
 
 /* ----------------------------------Navbar */
 
