@@ -7,8 +7,14 @@ body {
 
 /* ----------------------------------Index section */
 
+.content {
+    padding: 40px 10px;
+    text-align: center;
+}
 
-
+.content-image {
+    width: 80%;
+}
 /* ----------------------------------Navbar */
 
 
