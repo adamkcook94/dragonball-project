@@ -7,6 +7,17 @@ body {
 
 /* ----------------------------------Index section */
 
+.buy-btn {
+    background-color:rgba(255, 53, 3); /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
 .content {
     padding: 40px 10px;
     text-align: center;
