@@ -2,25 +2,39 @@ body {
     font-family: 'Exo 2', sans-serif;
     font-size: 1.2em;
     background-color: black;
-    color:#D3D3D3;
+    color:white;
 }
 
 /* ----------------------------------Index section */
 
 .jumbotron {
     background-image:url('../images/goku-b.png');
-    height: 80vh;
     background-size: cover;
     background-position: center;
-    color: #ff3503;
+    height: 80vh;
+    color: #white;
+    opacity: 0.7;
+}
 
+.intro {
+    color: black;
+    text-shadow: 1px 1px #d3d3d3;
+}
+
+.contrast {
+    padding-top: 20px;
+}
+
+
+.po-btn {
+    padding-top: 450px;
 }
 
 .buy-btn {
-    background-color:rgba(255, 53, 3); /* Green */
+    background-color:rgba(255, 53, 3);
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 30px 45px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
