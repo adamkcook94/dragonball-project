@@ -7,6 +7,15 @@ body {
 
 /* ----------------------------------Index section */
 
+.jumbotron {
+    background-image:url('../images/goku-b.png');
+    height: 80vh;
+    background-size: cover;
+    background-position: center;
+    color: #ff3503;
+
+}
+
 .buy-btn {
     background-color:rgba(255, 53, 3); /* Green */
     border: none;
