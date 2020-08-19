@@ -51,7 +51,29 @@ body {
 }
 /* ----------------------------------Navbar */
 
+/* ----------------------------------Media */
 
+
+
+
+
+.media-bg {
+    background-image:url(../images/media-bg.png);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    padding-top: 40px;
+    width: 100%;
+
+}
+
+.media-content {
+    margin: auto;
+    width: 75%;
+    height: 100vh;
+    color: #D3D3D3;
+    text-shadow: 1px 1px black;
+}
 
 /* ----------------------------------Hover.css */
 
