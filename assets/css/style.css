@@ -3,6 +3,7 @@ body {
     font-size: 1.2em;
     background-color: black;
     color:white;
+    margin: auto;
 }
 
 /* ----------------------------------Index section */
@@ -57,7 +58,7 @@ body {
 
 
 
-.media-bg {
+.media-bg-2 {
     background-image:url(../images/media-bg.png);
     background-size: cover;
     background-position: center;
@@ -67,7 +68,7 @@ body {
 
 }
 
-.media-content {
+.media-content-2 {
     margin: auto;
     width: 75%;
     height: 100vh;
@@ -75,19 +76,6 @@ body {
     text-shadow: 1px 1px black;
 }
 
-.video-responsive{
-    overflow: hidden;
-    padding-bottom: 56.25%;
-    position: relative;
-    height: 0;
-}
-.video-responsive iframe{
-    left: 0;
-    top: 0;
-    height: 100%;
-    width: 100%;
-    position: absolute;
-}
 
 /* ----------------------------------Hover.css */
 
@@ -96,6 +84,7 @@ body {
 }
 
 /* ----------------------------------Footer */
+
 
 
 .twitch-icon {
