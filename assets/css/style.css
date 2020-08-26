@@ -112,7 +112,9 @@ body {
   opacity: 0.3;
 }
 
-
+.fighter-container:hover .fighter-div {
+  opacity: 1;
+}
 
 .fighter-text {
   color: white;
