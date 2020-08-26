@@ -108,13 +108,11 @@ body {
   text-align: center;
 }
 
-.fighter-image:hover {
+.fighter-container:hover .fighter-image {
   opacity: 0.3;
 }
 
-.fighter-div:hover {
-  opacity: 1;
-}
+
 
 .fighter-text {
   color: white;
