@@ -1,39 +1,32 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome adamkcook94,
+<h1>Project-Dragonball</h1>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+In this project I am creating a responsive website in anticipation for a soon-to-be released video game. The purpose
+of this project is to showcase the game's story and features within a visually appealing format in order to create
+a solid player base awaiting its' arrival.
 
-## Gitpod Reminders
+<h2>UX</h2>
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+As an avid gamer that loves all types of games, I would like to be able to see what this game offers and how it differentiates
+itself from other games within the genre. I want to be able to watch videos to see the game in action and get a preview 
+of how it looks and runs.
 
-`python3 -m http.server`
+As a fan of the anime series I would like to be able to see the direction this company is taking the series. I want to be able to 
+see what the game will look like as well as which of my favourite characters will be in the game.
 
-A blue button should appear to click: *Make Public*,
+<h2>Features</h2>
 
-Another blue button should appear to click: *Open Browser*.
+* Game Information: Allows users to understand the features Dragonball Fighterz will bring to the table such as the graphics,
+game features and available characters.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+* Gameplay Media: Allows users to get a look at the game and build up excitement for the upcoming release.
 
-A blue button should appear to click: *Make Public*,
+* Reviews: Allows users to see what trustworthy game review companies have to say about the game.
 
-Another blue button should appear to click: *Open Browser*.
+* Pre-order Button: Easy to locate pre-order button with a buy function allows users to pre-order the game.
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
+* Fighter Page: Allows original fans of the series to see what characters will be available for them to play with.
 
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+* Social Media Links: Informs users of social media accounts linked to the company in order to receive live updates/Information
+about the game.
