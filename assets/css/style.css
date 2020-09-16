@@ -82,6 +82,10 @@ body {
     background: rgba(255, 53, 3)
 }
 
+.homeimg-width {
+    width: 9em;
+}
+
 #fighterz-page {
     color: rgba(255, 53, 3);
 }
