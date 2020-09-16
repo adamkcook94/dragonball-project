@@ -82,7 +82,7 @@ body {
     background: rgba(255, 53, 3)
 }
 
-.homeimg-width {
+.homeimg {
     width: 9em;
 }
 
@@ -119,6 +119,13 @@ body {
     color: #D3D3D3;
     text-shadow: 1px 1px black;
 }
+
+#trailer-dimensions {
+    width: 100%;
+    height: 500px;
+}
+
+
 
 
 
