@@ -77,6 +77,18 @@ body {
     -o-transition: all 0.35s ease-in-out;
 }
 
+#fighterz-page {
+    color: rgba(255, 53, 3);
+}
+
+#media-page {
+    color: rgba(255, 53, 3);
+}
+
+#reviews-page {
+    color: rgba(255, 53, 3);
+}
+
 /* ----------------------------------Media */
 
 
