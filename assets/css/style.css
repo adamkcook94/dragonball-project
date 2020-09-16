@@ -69,6 +69,13 @@ body {
     color: white
 }
 
+.navbar-text:hover {
+    color:rgba(255, 53, 3);
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
 
 /* ----------------------------------Media */
 
