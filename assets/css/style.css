@@ -8,6 +8,10 @@ body {
 
 /* ----------------------------------Index section */
 
+#btn-text {
+    color: white;
+}
+
 .jumbotron {
     background-image:url('../images/black-goku.png');
     background-size: cover;
