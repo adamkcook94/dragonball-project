@@ -6,6 +6,7 @@ body {
     margin: auto;
 }
 
+
 /* ----------------------------------Index section */
 
 #btn-text {
@@ -77,6 +78,10 @@ body {
     -o-transition: all 0.35s ease-in-out;
 }
 
+.hvr-underline-from-center:before {
+    background: rgba(255, 53, 3)
+}
+
 #fighterz-page {
     color: rgba(255, 53, 3);
 }
@@ -112,11 +117,7 @@ body {
 }
 
 
-/* ----------------------------------Hover.css */
 
-.hvr-underline-from-center:before {
-    background: rgba(255, 53, 3)
-}
 
 /* ----------------------------------Fighterz.css */
 
