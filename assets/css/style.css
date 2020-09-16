@@ -64,9 +64,11 @@ body {
 }
 /* ----------------------------------Navbar */
 
-#nav-bg {
-    background-color: black;
+
+.navbar-text {
+    color: white
 }
+
 
 /* ----------------------------------Media */
 
