@@ -52,6 +52,10 @@ body {
 }
 /* ----------------------------------Navbar */
 
+#nav-bg {
+    background-color: black;
+}
+
 /* ----------------------------------Media */
 
 
@@ -204,3 +208,8 @@ body {
     height: 80%;
     width: 60%;
 }
+
+.review-logo {
+    max-width: 50vw;
+}
+
