@@ -6,6 +6,38 @@ body {
     margin: auto;
 }
 
+/* ----------------------------------Navbar */
+
+.navbar-text {
+    color: white
+}
+
+.navbar-text:hover {
+    color:rgba(255, 53, 3);
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.hvr-underline-from-center:before {
+    background: rgba(255, 53, 3)
+}
+
+
+#fighterz-page {
+    color: rgba(255, 53, 3);
+}
+
+#media-page {
+    color: rgba(255, 53, 3);
+}
+
+#reviews-page {
+    color: rgba(255, 53, 3);
+}
+
+
 
 /* ----------------------------------Index section */
 
@@ -14,7 +46,7 @@ body {
 }
 
 #btn-text:hover {
-    color: lightgoldenrodyellow;
+    color: black;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -64,62 +96,13 @@ body {
     width: 80%;
 }
 
-/* ----------------------------------Navbar */
-
-
-.navbar-text {
-    color: white
-}
-
-.navbar-text:hover {
-    color:rgba(255, 53, 3);
-    transition: all 0.35s ease-in-out;
-    -moz-transition: all 0.35s ease-in-out;
-    -webkit-transition: all 0.35s ease-in-out;
-    -o-transition: all 0.35s ease-in-out;
-}
-
-.hvr-underline-from-center:before {
-    background: rgba(255, 53, 3)
-}
-
-.homeimg {
-    width: 9em;
-}
-
-#fighterz-page {
-    color: rgba(255, 53, 3);
-}
-
-#media-page {
-    color: rgba(255, 53, 3);
-}
-
-#reviews-page {
-    color: rgba(255, 53, 3);
-}
-
 
 /* ----------------------------------Media */
 
-
-
-.media-bg-2 {
-    background-image:url(../images/media-bg.png);
-    background-size: cover;
-    background-position: center;
-    height: 100vh;
-    padding-top: 40px;
-    width: 100%;
-
-}
-
-.media-content-2 {
-    margin: auto;
-    width: 75%;
-    height: 100vh;
-    color: #D3D3D3;
-    text-shadow: 1px 1px black;
+.img-style {
+    background: gray;
+    border: gray;
+    margin-bottom: 15px;
 }
 
 #trailer-dimensions {
