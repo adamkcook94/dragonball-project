@@ -12,6 +12,14 @@ body {
     color: white;
 }
 
+#btn-text:hover {
+    color: lightgoldenrodyellow;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
 .jumbotron {
     background-image:url('../images/black-goku.png');
     background-size: cover;
