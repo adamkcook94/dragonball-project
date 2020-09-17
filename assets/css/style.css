@@ -26,8 +26,7 @@ body {
 
 .custom-toggler.navbar-toggler {
     border-color: rgb(201, 58, 22);
-    border-width: medium;
-    
+    border-width: thick;
 }
 
 .custom-toggler .navbar-toggler-icon { 
@@ -35,21 +34,8 @@ body {
 "data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(201, 58, 22, 0.8)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E"); 
         } 
 
-.fighterz-page {
-    color: rgba(255, 53, 3);
-}
-
-#media-page {
-    color: rgba(255, 53, 3);
-}
-
-#reviews-page {
-    color: rgba(255, 53, 3);
-}
-
-
-
 /* ----------------------------------Index section */
+
 
 #btn-text {
     color: white;
@@ -168,15 +154,9 @@ body {
     text-align: center;
 }
 
-.gamespot-logo {
-    height: 80%;
-    width: 60%;
-}
-
 .review-logo {
-    max-width: 50vw;
+    padding-right: 5px;
 }
-
 /* ----------------------------------Footer */
 
 
