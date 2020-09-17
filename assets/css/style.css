@@ -70,17 +70,17 @@ body {
 
 #po-btn {
     padding-top: 275px;
+    border-color: black;
 }
 
 .buy-btn {
     background-color:rgba(255, 53, 3);
-    border: none;
     color: white;
     padding: 30px 45px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
+    font-size: 24px;
 }
 
 .content {
@@ -155,7 +155,7 @@ body {
 }
 
 .review-logo {
-    padding-right: 5px;
+    margin-right: 5px;
 }
 /* ----------------------------------Footer */
 
