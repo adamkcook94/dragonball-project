@@ -165,11 +165,11 @@ The common pathway for users throughout the website would be:
 
 1. As a first-time visitor of the website I do not want to be overwhelmed with too much information/graphics. I want natural progression where I learn the most important information regarding the game.
  
-i. The navigation bar is easy to use and structured in a way where the user is guided to the next key point of information.
+   i. The navigation bar is easy to use and structured in a way where the user is guided to the next key point of information.
 
-ii. The logo in the top left of the navigation bar is always present and leads the user back to the home page.
+   ii. The logo in the top left of the navigation bar is always present and leads the user back to the home page.
 
-iii. Each page offers concise, straight to the point information regarding the product.
+   iii. Each page offers concise, straight to the point information regarding the product.
 
  
 
