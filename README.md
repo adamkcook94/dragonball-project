@@ -171,243 +171,224 @@ The common pathway for users throughout the website would be:
 
    iii. Each page offers concise, straight to the point information regarding the product.
 
+
+2. As a potential consumer of this product I want to see what this game will offer in comparison to other games of its genre through game trailers and screenshots from the game itself.
  
+   i. The navigation bar and its clear, radiant hover effect makes navigation easy for the user to access the media page.
 
-As a potential consumer of this product I want to see what this game will offer in comparison to other games of its genre through game trailers and screenshots from the game itself.
+   ii. The media page, accessible from the navigation bar offers screenshots and a video game trailer for the user.
+
+
+3. As a potential consumer of this product I want to be able to have a simple purchasing process.
  
+   i. The home page displays a big, bright orange pre-order button which makes purchasing the game a simple process.
 
-i.                     The navigation bar and its clear, radiant hover effect makes navigation easy for the user to access the media page.
-
-ii.                   The media page, accessible from the navigation bar offers screenshots and a video game trailer for the user.
-
- 
-
-As a potential consumer of this product I want to be able to have a simple purchasing process.
- 
-
-i.                     The home page displays a big, bright orange pre-order button which makes purchasing the game a simple process.
-
-ii.                   The pre-order page instantly asks for customer details making the purchasing process as quick and easy as possible.
+   ii. The pre-order page instantly asks for customer details making the purchasing process as quick and easy as possible.
 
  
-
-As a fan of the TV series I want to be able to see which characters from the series will be playable.
+4. As a fan of the TV series I want to be able to see which characters from the series will be playable.
  
+   i. The navigation bar and its clear, radiant hover effect makes navigation easy for the user to access the fighter page.
 
-i.                     The navigation bar and its clear, radiant hover effect makes navigation easy for the user to access the fighter page.
-
-ii.                   The fighter page displays all character mugshots, with character names displaying when hovering over each character.
+   ii. The fighter page displays all character mugshots, with character names displaying when hovering over each character.
 
  
 
-As a video game fan who wants to keep an eye on the developments for this product, I want to be able to follow the company on social media.
+5. As a video game fan who wants to keep an eye on the developments for this product, I want to be able to follow the company on social media.
  
 
-i.                     Links to the company’s social media accounts are found in the footer on every page of the website.
+   i. Links to the company’s social media accounts are found in the footer on every page of the website.
 
  
+### Manuel Testing of all elements and functionality on every page.
 
-Manuel Testing of all elements and functionality on every page.
+#### Home Page:
 
-Home Page:
+1. Navigation Bar:
 
-Navigation Bar:
-i.                     Access the home page from a desktop.
+   i. Access the home page from a desktop.
 
-ii.                   Right click and select “Inspect” to change screen size to that of a mobile device or tablet to confirm that the navigation bar is responsive, and the menu items transform into a drop-down burger icon.
+   ii. Right click and select “Inspect” to change screen size to that of a mobile device or tablet to confirm that the navigation bar is responsive, and the menu items transform into a drop-down burger icon.
 
-iii.                 Hover over the menu items to make sure that text transforms into electric orange and has an underline effect.
+   iii. Hover over the menu items to make sure that text transforms into electric orange and has an underline effect.
 
-iv.                 Click on the brand logo image to confirm that it takes the user back to the home page.
+   iv. Click on the brand logo image to confirm that it takes the user back to the home page.
 
-v.                   Click on each navigation menu item to confirm that that it links to the desired page.
+   v. Click on each navigation menu item to confirm that that it links to the desired page.
 
-vi.                 Change screen size to mobile and tablet devices and click on the burger icon to ensure the drop-down menu is functional and displays all the correct links, and that the links to the pages work.
+   vi. Change screen size to mobile and tablet devices and click on the burger icon to ensure the drop-down menu is functional and displays all the correct links, and that the links to the pages work.
 
-vii.                Ensure same html code is used across all HTML pages.
-
- 
-
-Website Background Image:
-i.                     Access the home page from a desktop.
-
-ii.                   Change screen size to mobile and tablet devices to ensure the image scales depending on screen size. (When resizing images this particular image started to pixelate)
+   vii. Ensure same html code is used across all HTML pages.
 
  
+2. Website Background Image:
 
-Pre-Order Button:
-i.                     Access the home page from a desktop.
+   i. Access the home page from a desktop.
 
-ii.                   Hover over the button to ensure that users will see that the button is clickable through a change in colour and will take the user to a pre-order page.
+   ii. Change screen size to mobile and tablet devices to ensure the image scales depending on screen size. (When resizing images this particular image started to pixelate)
 
-iii.                 Change screen size to mobile and tablet devices to ensure the button does not move out of place and remains fixed within the confines of the background image.
+3. Pre-Order Button:
 
-iv.                 Click on the pre-order button to ensure it takes the user to the pre-order page.
+   i. Access the home page from a desktop.
 
- 
+   ii. Hover over the button to ensure that users will see that the button is clickable through a change in colour and will take the user to a pre-order page.
 
-Images and Text Information:
-i.                     Access the home page from a desktop.
+   iii. Change screen size to mobile and tablet devices to ensure the button does not move out of place and remains fixed within the confines of the background image.
 
-ii.                   Change the screen size to mobile and tablet devices to ensure images remain clear and that text structures smoothly.
-
- 
-
-Footer:
-i.                     Hover over each social media icon to ensure colour transitions work.
-
-ii.                   Click on all images to ensure links to different pages work and open in separate tabs.
-
-iii.                 Change screen sizes to mobile and tablet devices to ensure the footer retains a smooth structure.
-
-iv.                 Ensure same html code is used across all HTML pages.
+   iv. Click on the pre-order button to ensure it takes the user to the pre-order page.
 
  
+4. Images and Text Information:
 
-Media
+   i. Access the home page from a desktop.
 
-Navigation Bar:
-i.                     Repeat process used to test the navigation bar for the home page.
-
- 
-
-Image Thumbnails:
-i.                     Hover over each image to ensure users know that images are clickable.
-
-ii.                   Check code to ensure all pictures have appropriate alt attributes.
-
-iii.                 Click on each thumbnail to ensure pictures are clear and open in a new tab.
-
-iv.                 Change screen size to mobile and tablet devices to ensure a manageable structure remains.
+   ii. Change the screen size to mobile and tablet devices to ensure images remain clear and that text structures smoothly.
 
  
+5. Footer:
+   i. Hover over each social media icon to ensure colour transitions work.
 
-Video:
-i.                     Ensure that when clicking on the video it plays.
+   ii. Click on all images to ensure links to different pages work and open in separate tabs.
 
-ii.                   Change screen size to mobile and tablet devices to ensure video is responsive and works on those devices.
+   iii. Change screen sizes to mobile and tablet devices to ensure the footer retains a smooth structure.
+
+   iv. Ensure same html code is used across all HTML pages.
+
+
+#### Media
+
+1. Navigation Bar:
+
+   i. Repeat process used to test the navigation bar for the home page.
+
+2. Image Thumbnails:
+   
+   i. Hover over each image to ensure users know that images are clickable.
+
+   ii. Check code to ensure all pictures have appropriate alt attributes.
+
+   iii. Click on each thumbnail to ensure pictures are clear and open in a new tab.
+
+   iv. Change screen size to mobile and tablet devices to ensure a manageable structure remains.
 
  
+3. Video:
+   
+   i. Ensure that when clicking on the video it plays.
 
-Footer:
-i.                     Repeat process used to test the footer for the home page.
-
- 
-
-Fighters
-
-Navigation Bar:
-i.                     Navbar code is the same for all HTML pages.
+   ii. Change screen size to mobile and tablet devices to ensure video is responsive and works on those devices.
 
  
-
-Fighter Images:
-i.                     Hover over each image to confirm that transitions to fighter names works correctly.
-
-ii.                   Check code to ensure that each image has a descriptive alt attribute attached.
-
-iii.                 Change screen size to mobile and tablet devices to ensure a smooth structure remains and that images are responsive.
+4. Footer:
+   
+   i. Repeat process used to test the footer for the home page.
 
  
+#### Fighters
 
-Footer
-i.                     Footer code is the same for all HTML pages.
+
+1. Navigation Bar:
+
+   i. Navbar code is the same for all HTML pages.
+
+2. Fighter Images:
+
+   i. Hover over each image to confirm that transitions to fighter names works correctly.
+
+   ii. Check code to ensure that each image has a descriptive alt attribute attached.
+
+   iii. Change screen size to mobile and tablet devices to ensure a smooth structure remains and that images are responsive.
+
+ 3. Footer
+
+   i. Footer code is the same for all HTML pages.
 
  
 
-Reviews
+#### Reviews
 
-Navigation Bar:
-i.                     Navbar code is the same for all HTML pages.
+1. Navigation Bar:
 
- 
+   i. Navbar code is the same for all HTML pages.
 
-Company Images and Text:
-i.                     Ensure all images are clear and responsive on mobile and tablet devices. (Initially a picture was not responsive when change screen devices, so switched image and resized)
+2. Company Images and Text:
+   
+   i. Ensure all images are clear and responsive on mobile and tablet devices. (Initially a picture was not responsive when change screen devices, so switched image and resized)
 
-ii.                   Change screen sizes to mobile and tablet devices to ensure they retain a smooth structure.
+   ii. Change screen sizes to mobile and tablet devices to ensure they retain a smooth structure.
 
- 
+3. Footer
 
-Footer
-i.                     Footer code is the same for all HTML pages.
-
- 
-
-Pre-Order
-
-Navigation Bar:
-i.                     Navbar code is the same for all HTML pages.
+   i. Footer code is the same for all HTML pages.
 
  
 
-Drop-down Console Selector:
-i.                     Click on each console type to ensure the drop-down menu works as intended.
+#### Pre-Order
 
-ii.                   Change screen size to ensure same functionality on mobile and tablet devices.
+1. Navigation Bar:
+
+   i. Navbar code is the same for all HTML pages.
+
+2. Drop-down Console Selector:
+
+   i. Click on each console type to ensure the drop-down menu works as intended.
+
+   ii. Change screen size to ensure same functionality on mobile and tablet devices.
+
+3. Pre-Order Form:
+   
+   i. Ensure form has relevant placeholder text.
+
+   ii. Type inside form to ensure the form works.
+
+   iii. Click button to ensure checkout button works. (Checkout button does not have a function as of yet)
+
+4. Footer:
+
+   i. Footer code is the same for all HTML pages.
 
  
-
-Pre-Order Form:
-i.                     Ensure form has relevant placeholder text.
-
-ii.                   Type inside form to ensure the form works.
-
-iii.                 Click button to ensure checkout button works. (Checkout button does not have a function as of yet)
-
- 
-
-Footer:
-i.                     Footer code is the same for all HTML pages.
-
- 
-
-Further Testing:
+## Further Testing:
 
 Checked website on different devices to test functionality and no issues were found.
 
- 
 
- 
-
-Deployment
+## Deployment
 
 This project was developed using GitPod, committed to git and pushed to GitHub.
 
 To deploy this page, the following steps were taken:
 
-Log into Github.
-On GitHub, navigate to the repository “adamkcook/dragonball-project”.
-Underneath the repository name, select “Settings”.
-Scroll down to “GitHub Pages”.
-Click on the drop-down menu and select “master”.
-Click “save”.
-The page will now refresh and a link to the site will be available under the “GitHub Pages” section.
+1. Log into Github.
+2. On GitHub, navigate to the repository “adamkcook/dragonball-project”.
+3. Underneath the repository name, select “Settings”.
+4. Scroll down to “GitHub Pages”.
+5. Click on the drop-down menu and select “master”.
+6. Click “save”.
+7. The page will now refresh and a link to the site will be available under the “GitHub Pages” section.
  
 
-How to run this project locally
+## How to run this project locally
 
 To clone this project from GitHub:
 
-Click this link to the main page of the repository: https://github.com/adamkcook94/dragonball-project
-Above the list of files click “Code”.
-Click “Open with GitHub Desktop”.
-Follow the prompts in GitHub Desktop to complete the clone.
+1. Click this link to the main page of the repository: https://github.com/adamkcook94/dragonball-project
+2. Above the list of files click “Code”.
+3. Click “Open with GitHub Desktop”.
+4. Follow the prompts in GitHub Desktop to complete the clone.
  
 
- 
+## Credits
 
-Credits
+* The text used in the home page was provided by Adam Cook.
+* The text used in the Reviews section was taken from the game review companies, “Gamespot”, “Destructoid” and “Nintendo Life”.
 
-Content
+## Media
 
-The text used in the home page was provided by Adam Cook.
-The text used in the Reviews section was taken from the game review companies, “Gamespot”, “Destructoid” and “Nintendo Life”.
-Media
+* The images used throughout the project were taken from Google Images, by way of the Dragonball Fighterz video game.
+* The trailer video used in the media page was taken from YouTube, by way of Bandai’s YouTube channel.
 
-The images used throughout the project were taken from Google Images, by way of the Dragonball Fighterz video game.
-The trailer video used in the media page was taken from YouTube, by way of Bandai’s YouTube channel.
-Acknowledgements
+## Acknowledgements
 
 My inspiration for this project was found in my love for this particular game “Dragonball Fighterz”.
  
