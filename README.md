@@ -135,16 +135,16 @@ potential buyers of the game.
 
 * HTML & CSS programming languages
 * GitHUB – Used as an IDE by the developer.
-* BootstrapCDN
-  - Bootstrap 5 was used for the project’s structure and responsiveness.
-  - BootstrapCDN was also used to important FontAwesome icons.
-
 * Google Fonts – Used to style the website fonts.
 * YouTube – Used to import the game’s trailer video.
 * Hover.css – Used for an underlining feature in the navigation bar for whenever a user hovers over a page link.
 * jQuery – Used to reference JavaScript.
 * Popper.js – Used to reference JavaScript.
 * All images imported were downloaded from Google Images and then stored and linked by the developer.
+* BootstrapCDN
+  - Bootstrap 5 was used for the project’s structure and responsiveness.
+  - BootstrapCDN was also used to important FontAwesome icons.
+
 
 ## Testing
 
