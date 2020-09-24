@@ -13,7 +13,7 @@ body {
 }
 
 .navbar-text:hover {
-    color:rgba(255, 53, 3);
+    color: #ff3503;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -21,7 +21,7 @@ body {
 }
 
 .hvr-underline-from-center:before {
-    background: rgba(255, 53, 3)
+    background: #ff3503;
 }
 
 .custom-toggler.navbar-toggler {
