@@ -1,117 +1,143 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Project-dragonball
+# Project-dragonball
 
-A website for a soon to be released video game based on a popular TV series called ‘Dragonball Z’. Website features game images and video, playable characters, game information, reviews from established game review companies and a pre-order option. The main goal of the website is to entice consumers into pre-ordering the game to generate interest and sales for the company.
+A website for a soon to be released video game based on a popular TV series called ‘Dragonball Z’. 
+Website features game images and video, playable characters, game information, reviews from established
+game review companies and a pre-order option. The main goal of the website is to entice consumers into 
+re-ordering the game to generate interest and sales for the company.
 
-This website can be categorised as a B2C website and as such its purpose is to get the website visitor emotionally invested into the product, leading to an impulse buy. Therefore, the website is designed to display relevant information fluidly with the purchase option the focal point of the website.
+This website can be categorised as a B2C website and as such its purpose is to get the website visitor
+emotionally invested into the product, leading to an impulse buy. Therefore, the website is designed 
+to display relevant information fluidly with the purchase option the focal point of the website.
 
 The business goals of the website are as follows:
 
-Generating interest in the game.
-Providing a visually appealing website.
-Accurately representing the details and features of the game.
-Functional B2C design to lead the consumer into a swift, hassle-free purchase.
-Not only generating interest in the game but also an avenue for gamers to take an interest in the TV series.
+* Generating interest in the game.
+* Providing a visually appealing website.
+* Accurately representing the details and features of the game.
+* Functional B2C design to lead the consumer into a swift, hassle-free purchase.
+* Not only generating interest in the game but also an avenue for gamers to take an interest in the TV series.
+
 The goals of the consumer are:
 
-Quick, fluid and easy access to relevant game information.
-Information on the release date of the game.
-Simple purchasing process.
-UX
+* Quick, fluid and easy access to relevant game information.
+* Information on the release date of the game.
+* Simple purchasing process.
 
-Ideal Consumer
+## UX
+
+### Ideal Consumer
 
 This website is aimed at consumers who:
 
-Have a source of income.
-Own or who are interested in owning a games console.
-Holds an interest in gaming.
-Fans of the TV series.
+* Have a source of income.
+* Own or who are interested in owning a games console.
+* Holds an interest in gaming.
+* Fans of the TV series.
+
 Visitors to the website will be looking for:
 
-An opportunity to purchase a new game.
-Information on the game.
+* An opportunity to purchase a new game.
+* Information on the game.
+
 This project helps the consumer achieve this by:
 
-Providing a good user experience through simplicity and key information.
-Providing a simple yet visually appealing design.
-Client Stories
+* Providing a good user experience through simplicity and key information.
+* Providing a simple yet visually appealing design.
 
-As a first-time visitor of the website I do not want to be overwhelmed with too much information/graphics. I want natural progression where I learn the most important information in regard to the game.
-As a potential consumer of this product I want to see what this game will offer in comparison to other games of its genre through game trailers and screenshots from the game itself.
-As a potential consumer of this product I want to be able to have a simple purchasing process.
-As a fan of the TV series I want to be able to see which characters from the series will be playable.
+### Client Stories
+
+* As a first-time visitor of the website I do not want to be overwhelmed with too much information/graphics. 
+  I want natural progression where I learn the most important information in regard to the game.
+* As a potential consumer of this product I want to see what this game will offer in comparison to other games
+  of its genre through game trailers and screenshots from the game itself.
+* As a potential consumer of this product I want to be able to have a simple purchasing process.
+* As a fan of the TV series I want to be able to see which characters from the series will be playable.
  
 
-Features
+## Features
 
-Each page consists of a responsive navigation bar with a game logo in the top left which allows visitors to click on to return to the home page. The navigation bar also has links to three different areas of the website – a media page, fighter page and review page.
+Each page consists of a responsive navigation bar with a game logo in the top left which allows visitors to click
+on to return to the home page. The navigation bar also has links to three different areas of the website – a media
+page, fighter page and review page.
 
-When a user hovers over page links in the navigation bar, the text changes to an bold orange color with an underline feature.
+When a user hovers over page links in the navigation bar, the text changes to an bold orange color with an underline
+feature.
 
-Each page also has a responsive footer with a company logo in the bottom left, social media icons in the centre,  and a mature rating in the bottom right, all of which are linked to the relevant websites and social media platforms connected to Dragonball Fighterz. There is also copyright information underneath the footer.
+Each page also has a responsive footer with a company logo in the bottom left, social media icons in the centre, and
+a mature rating in the bottom right, all of which are linked to the relevant websites and social media platforms connected
+to Dragonball Fighterz. There is also copyright information underneath the footer.
 
-Home
+### Home
 
-The home page contains a visually appealing background of the main character of the series which is there to welcome old fans and entice new fans with an appealing image. It also displays an eye-catching orange pre-order button which is designed to capture the visitor’s attention, so they are instantly informed of how to purchase the game.
+The home page contains a visually appealing background of the main character of the series which is there to welcome 
+old fans and entice new fans with an appealing image. It also displays an eye-catching orange pre-order button which
+is designed to capture the visitor’s attention, so they are instantly informed of how to purchase the game.
 
-There are also eye-catching game screenshots with impactful font describing key game information when the visitor scrolls down. This is done to engage the visitor and elicit an emotional response of excitement and intrigue.
+There are also eye-catching game screenshots with impactful font describing key game information when the visitor scrolls
+down. This is done to engage the visitor and elicit an emotional response of excitement and intrigue.
 
-Pre-order
+### Pre-order
 
-The pre-order page consists of an option for the visitor to choose his/her gaming platform as well as input options for them to enter their payment details. Underneath is a simple checkout button which allows the potential consumer to buy the product.
+The pre-order page consists of an option for the visitor to choose his/her gaming platform as well as input options for 
+them to enter their payment details. Underneath is a simple checkout button which allows the potential consumer to buy the
+product.
 
-Media
+### Media
 
-The media page has 12 screenshots of the game structured in columns – 4 pictures wide on a desktop, 3 on a tablet and 2 on a mobile device.
+The media page has 12 screenshots of the game structured in columns – 4 pictures wide on a desktop, 3 on a tablet and 2 on
+a mobile device.
 
-The choice of creating thumbnails and opening a new tab when clicking on the images was made so that the screenshots of the game can be seen clearer and appreciated in finer detail on a separate page.
+The choice of creating thumbnails and opening a new tab when clicking on the images was made so that the screenshots of the
+game can be seen clearer and appreciated in finer detail on a separate page.
 
-Underneath is a trailer video imported from YouTube which is an official trailer released by the gaming company, detailing how the game looks, sounds and feels.
+Underneath is a trailer video imported from YouTube which is an official trailer released by the gaming company, detailing
+how the game looks, sounds and feels.
 
+### Fighters
+
+The fighters page was structured the same as the gallery page. The images of the fighters have a hover effect where the image
+darkens as the user hovers over the pictures, detailing the character’s names.
+
+As Dragonball Fighterz is a fighting game, a key aspect of the game are the characters consumers will be able to play as. In
+this instance it was an even greater aspect of the game as fans of the TV series would have greater interest in seeing which of
+their favourite characters will be playable.
+
+### Reviews
+
+The reviews page informs visitors of the ratings given by reputable games review companies which is critical information for 
+potential buyers of the game.
+
+## Existing Features
+
+* Header Logo – Available on every page this allows users to see the game’s logo, also offering a return to the home page for users.
+* Navigation Bar – Available on every page this allows users to easily navigate through all of the website’s content and features.
+* Footer Copyright Information – Available on every page and protects business copyright
+* Footer Social Media Icons – Available on every page, gives users a direct link to all social media accounts related to the game 
+  which offer live, up-to-date information on the game.
+* Home Page – Offers a pre-order option with key game information along with game screenshots.
+* Pre-Order Page – Allows users to fill out a purchase form to pre-order the game.
+* Media Page – Allows visitors to gain a first-hand experience of what the game will look and sound like with gameplay footage, audio
+  and visuals.
+* Fighter Page – Allows users to gain more key information about the game by offering them characters they can choose from.
+* Review Page – Offers users trustworthy game reviews from reputable companies, allowing the potential consumer to trust the legitimacy
+  of the product more.
+
+## Features to Implement in the future
+
+* Pop up with detailed character descriptions in the fighter page in order to add to the key information the website wants to offer.
+* Additional trailer video into the home page in order to add to the excitement of the game.
+* Backgrounds on each page to add to the visual appeal.
  
 
- 
+## Technologies Used
 
-Fighters
-
-The fighters page was structured the same as the gallery page. The images of the fighters have a hover effect where the image darkens as the user hovers over the pictures, detailing the character’s names.
-
-As Dragonball Fighterz is a fighting game, a key aspect of the game are the characters consumers will be able to play as. In this instance it was an even greater aspect of the game as fans of the TV series would have greater interest in seeing which of their favourite characters will be playable.
-
-Reviews
-
-The reviews page informs visitors of the ratings given by reputable games review companies which is critical information for potential buyers of the game.
-
- 
-
-Existing Features
-
-Header Logo – Available on every page this allows users to see the game’s logo, also offering a return to the home page for users.
-Navigation Bar – Available on every page this allows users to easily navigate through all of the website’s content and features.
-Footer Copyright Information – Available on every page and protects business copyright
-Footer Social Media Icons – Available on every page, gives users a direct link to all social media accounts related to the game which offer live, up-to-date information on the game.
-Home Page – Offers a pre-order option with key game information along with game screenshots.
-Pre-Order Page – Allows users to fill out a purchase form to pre-order the game.
-Media Page – Allows visitors to gain a first-hand experience of what the game will look and sound like with gameplay footage, audio and visuals.
-Fighter Page – Allows users to gain more key information about the game by offering them characters they can choose from.
-Review Page – Offers users trustworthy game reviews from reputable companies, allowing the potential consumer to trust the legitimacy of the product more.
-Features to Implement in the future
-
-Pop up with detailed character descriptions in the fighter page in order to add to the key information the website wants to offer.
-Additional trailer video into the home page in order to add to the excitement of the game.
-Backgrounds on each page to add to the visual appeal.
- 
-
-Technologies Used
-
-HTML & CSS programming languages
-GitHUB – Used as an IDE by the developer.
-BootstrapCDN
-- Bootstrap 5 was used for the project’s structure and responsiveness.
-
-- BootstrapCDN was also used to important FontAwesome icons.
+* HTML & CSS programming languages
+* GitHUB – Used as an IDE by the developer.
+* BootstrapCDN
+  - Bootstrap 5 was used for the project’s structure and responsiveness.
+  - BootstrapCDN was also used to important FontAwesome icons.
 
 Google Fonts – Used to style the website fonts.
 YouTube – Used to import the game’s trailer video.
