@@ -109,7 +109,7 @@ their favourite characters will be playable.
 The reviews page informs visitors of the ratings given by reputable games review companies which is critical information for 
 potential buyers of the game.
 
-## Existing Features
+### Existing Features
 
 * Header Logo – Available on every page this allows users to see the game’s logo, also offering a return to the home page for users.
 * Navigation Bar – Available on every page this allows users to easily navigate through all of the website’s content and features.
@@ -124,14 +124,14 @@ potential buyers of the game.
 * Review Page – Offers users trustworthy game reviews from reputable companies, allowing the potential consumer to trust the legitimacy
   of the product more.
 
-## Features to Implement in the future
+### Features to Implement in the future
 
 * Pop up with detailed character descriptions in the fighter page in order to add to the key information the website wants to offer.
 * Additional trailer video into the home page in order to add to the excitement of the game.
 * Backgrounds on each page to add to the visual appeal.
  
 
-## Technologies Used
+### Technologies Used
 
 * HTML & CSS programming languages
 * GitHUB – Used as an IDE by the developer.
@@ -139,16 +139,19 @@ potential buyers of the game.
   - Bootstrap 5 was used for the project’s structure and responsiveness.
   - BootstrapCDN was also used to important FontAwesome icons.
 
-Google Fonts – Used to style the website fonts.
-YouTube – Used to import the game’s trailer video.
-Hover.css – Used for an underlining feature in the navigation bar for whenever a user hovers over a page link.
-jQuery – Used to reference JavaScript.
-Popper.js – Used to reference JavaScript.
-All images imported were downloaded from Google Images and then stored and linked by the developer.
-Testing
+* Google Fonts – Used to style the website fonts.
+* YouTube – Used to import the game’s trailer video.
+* Hover.css – Used for an underlining feature in the navigation bar for whenever a user hovers over a page link.
+* jQuery – Used to reference JavaScript.
+* Popper.js – Used to reference JavaScript.
+* All images imported were downloaded from Google Images and then stored and linked by the developer.
 
-https://validator.w3.org/nu/?doc=https%3A%2F%2Fgitpod.io%2Flogin%2F%3FreturnTo%3Dhttps%3A%2F%2Fc6f86b37-3ece-4bf4-9b0c-674cda00b2c4.ws-eu01.gitpod.io%2F
-Jigsaw.w3.org/css-validator/validator (In this validator posting the URI was not working properly so I pasted the css code into it and it came out fine).
+## Testing
+
+* [W3C HTML Code Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgitpod.io%2Flogin%2F%3FreturnTo%3Dhttps%3A%2F%2Fc6f86b37-3ece-4bf4-9b0c-674cda00b2c4.ws-eu01.gitpod.io%2F)
+
+* [W3C CSS Validator](Jigsaw.w3.org/css-validator/validator) (In this validator posting the URI was not working properly so I pasted the css code into it and it came out fine).
+
 Client Stories Testing
 
 The common pathway for users throughout the website would be:
