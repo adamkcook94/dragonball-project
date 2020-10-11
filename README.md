@@ -6,8 +6,7 @@ A website for a soon to be released video game based on a popular TV series call
 Website features game images and video, playable characters, game information, reviews from established
 game review companies and a pre-order option. The main goal of the website is to entice consumers into 
 re-ordering the game to generate interest and sales for the company. Access to the website can be found
-* [here](https://adamkcook94.github.io/dragonball-project/)
-here
+[here](https://adamkcook94.github.io/dragonball-project/)
 
 This website can be categorised as a B2C website and as such its purpose is to get the website visitor
 emotionally invested into the product, leading to an impulse buy. Therefore, the website is designed 
