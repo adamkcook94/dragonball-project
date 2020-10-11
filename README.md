@@ -5,7 +5,9 @@
 A website for a soon to be released video game based on a popular TV series called ‘Dragonball Z’. 
 Website features game images and video, playable characters, game information, reviews from established
 game review companies and a pre-order option. The main goal of the website is to entice consumers into 
-re-ordering the game to generate interest and sales for the company.
+re-ordering the game to generate interest and sales for the company. Access to the website can be found
+* [here](https://adamkcook94.github.io/dragonball-project/)
+here
 
 This website can be categorised as a B2C website and as such its purpose is to get the website visitor
 emotionally invested into the product, leading to an impulse buy. Therefore, the website is designed 
@@ -148,7 +150,7 @@ potential buyers of the game.
 
 ## Testing
 
-* [W3C HTML Code Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fgitpod.io%2Flogin%2F%3FreturnTo%3Dhttps%3A%2F%2Fc6f86b37-3ece-4bf4-9b0c-674cda00b2c4.ws-eu01.gitpod.io%2F)
+* [W3C HTML Code Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamkcook94.github.io%2Fdragonball-project%2F)
 
 * [W3C CSS Validator](Jigsaw.w3.org/css-validator/validator) (In this validator posting the URI was not working properly so I pasted the css code into it and it came out fine).
 
