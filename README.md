@@ -49,15 +49,15 @@ This project helps the consumer achieve this by:
 
 The following images are wireframes from each page of the website:
 
-<img src="assets/wireframes/Home.png" alt="index-wireframe" title="Index">
+<img src="assets/wireframes/Home.png" alt="index-wireframe" title="Index" width="150" height="300">
 
-<img src="assets/wireframes/Media.png" alt="media-wireframe" title="Media">]
+<img src="assets/wireframes/Media.png" alt="media-wireframe" title="Media" width="150" height="300">
 
-<img src="assets/wireframes/Fighterz.png" alt="fighterz-wireframe" title="Fighterz">
+<img src="assets/wireframes/Fighterz.png" alt="fighterz-wireframe" title="Fighterz" width="150" height="300">
 
-<img src="assets/wireframes/Reviews.png" alt="reviews-wireframe" title="Reviews">
+<img src="assets/wireframes/Reviews.png" alt="reviews-wireframe" title="Reviews" width="150" height="300">
 
-<img src="assets/wireframes/Pre-Order.png" alt="pre-order-wireframe" title="Pre-Order">
+<img src="assets/wireframes/Pre-Order.png" alt="pre-order-wireframe" title="Pre-Order" width="150" height="300">
 
 ### Client Stories
 
