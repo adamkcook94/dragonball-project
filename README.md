@@ -49,15 +49,25 @@ This project helps the consumer achieve this by:
 
 The following images are wireframes from each page of the website:
 
-<img src="assets/wireframes/Home.png" alt="index-wireframe" title="Index" width="400" height="300">
+<img src="assets/wireframes/Home.png" alt="index-wireframe" title="Index" width="700" height="300">
 
-<img src="assets/wireframes/Media.png" alt="media-wireframe" title="Media" width="400" height="300">
+<img src="assets/wireframes/Media.png" alt="media-wireframe" title="Media" width="700" height="300">
 
-<img src="assets/wireframes/Fighterz.png" alt="fighterz-wireframe" title="Fighterz" width="400" height="300">
+<img src="assets/wireframes/Fighterz.png" alt="fighterz-wireframe" title="Fighterz" width="700" height="300">
 
-<img src="assets/wireframes/Reviews.png" alt="reviews-wireframe" title="Reviews" width="400" height="300">
+<img src="assets/wireframes/Reviews.png" alt="reviews-wireframe" title="Reviews" width="700" height="300">
 
-<img src="assets/wireframes/Pre-Order.png" alt="pre-order-wireframe" title="Pre-Order" width="400" height="300">
+<img src="assets/wireframes/Pre-Order.png" alt="pre-order-wireframe" title="Pre-Order" width="700" height="300">
+
+<img src="assets/wireframes/home-mobile.png" alt="home-mobile-wireframe" title="Home-Mobile" width="700" height="300">
+
+<img src="assets/wireframes/media-mobile.png" alt="media-mobile-wireframe" title="Media-Mobile" width="700" height="300">
+
+<img src="assets/wireframes/reviews-mobile.png" alt="reviews-mobile-wireframe" title="Reviews-Mobile" width="700" height="300">
+
+<img src="assets/wireframes/fighterz-mobile.png" alt="fighterz-mobile-wireframe" title="Fighterz-Mobile" width="700" height="300">
+
+<img src="assets/wireframes/pre-order-mobile.png" alt="pre-order-mobile-wireframe" title="Pre-Order-Mobile" width="700" height="300">
 
 ### Client Stories
 
