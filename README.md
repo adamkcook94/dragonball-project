@@ -47,6 +47,18 @@ This project helps the consumer achieve this by:
 * Providing a good user experience through simplicity and key information.
 * Providing a simple yet visually appealing design.
 
+The following images are wireframes from each page of the website:
+
+<img src="assets/wireframes/Home.png" alt="index-wireframe" title="Index">
+
+<img src="assets/wireframes/Media.png" alt="media-wireframe" title="Media">]
+
+<img src="assets/wireframes/Fighterz.png" alt="fighterz-wireframe" title="Fighterz">
+
+<img src="assets/wireframes/Reviews.png" alt="reviews-wireframe" title="Reviews">
+
+<img src="assets/wireframes/Pre-Order.png" alt="pre-order-wireframe" title="Pre-Order">
+
 ### Client Stories
 
 * As a first-time visitor of the website I do not want to be overwhelmed with too much information/graphics. 
