@@ -151,7 +151,7 @@ potential buyers of the game.
 
 * [W3C HTML Code Validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fadamkcook94.github.io%2Fdragonball-project%2F)
 
-* [W3C CSS Validator](Jigsaw.w3.org/css-validator/validator) (In this validator posting the URI was not working properly so I pasted the css code into it and it came out fine).
+* [W3C CSS Validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fadamkcook94.github.io%2Fdragonball-project%2Fassets%2Fcss%2Fstyle.css&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Client Stories Testing
 
